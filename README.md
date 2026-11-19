@@ -8,7 +8,11 @@ An independent community continuation of WandEnhancer, originally created by **k
 
 ## Download and requirements
 
-Community builds, when available, will be published under [Releases](../../releases). Download **WandEnhancer.exe** from the assets of a published release. This documentation package contains no executable. Run the compiled application directly; compilation tools and GitHub Actions are not needed to use it.
+[**Download WandEnhancer.exe**](https://github.com/lmedeiros01/Wand-Enhancer/releases/latest/download/WandEnhancer.exe)
+
+Download the executable directly and run it on Windows; compilation tools and GitHub Actions are not needed to use it.
+
+For release notes and previous versions, see [Releases](https://github.com/lmedeiros01/Wand-Enhancer/releases).
 
 You need:
 
@@ -258,4 +262,3 @@ Include the exact WandEnhancer build, Wand version, Windows version, selected op
 Original authorship and upstream contributor credit remain intact. The original project does not distribute official prebuilt executables; builds published here are separate community distributions. It is not endorsed by k1tbyte or Wand/WeMod.
 
 Preserve the license and applicable notices with redistributed builds. The upstream repository also carries a DMCA-related notice; this repository does not claim to resolve that notice or third-party rights.
-
