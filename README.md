@@ -1,6 +1,6 @@
-# WandEnhancer V2.3 — Community Executable
+# WandEnhancer — Community Executable
 
-**WandEnhancer 2.3.0.0 • QR pairing • Local network diagnostics • Brazilian Portuguese support**
+**QR pairing • Local network diagnostics • Brazilian Portuguese support**
 
 An independent community continuation of WandEnhancer, originally created by **k1tbyte** with contributions from the upstream community. This repository documents the compiled **WandEnhancer.exe**, its main features and the updated Remote Web connection process.
 
@@ -14,7 +14,7 @@ Download the executable directly and run it on Windows; compilation tools and Gi
 
 For release notes and previous versions, see [Releases](https://github.com/lmedeiros01/Wand-Enhancer/releases).
 
-This guide covers the latest community functionality. Check the release notes for the build you download: older executables can still show **V2.3 / 2.3.0.0** while lacking the newer controls described below.
+This guide covers the latest community functionality. Check the release notes for the build you download: earlier builds may lack the newer controls described below.
 
 You need:
 
@@ -26,18 +26,16 @@ The current Release packaging combines the application's managed dependencies in
 
 This repository does not include a Wand installer, games, an account or a subscription. It documents a community build, not an official executable released or endorsed by the original author.
 
-## Version and compatibility
+## Compatibility
 
 | Item | Details |
 | --- | --- |
-| Window label | V2.3 |
-| Executable version | 2.3.0.0 |
 | Current installation shown in the screenshots | Wand 12.73.0 |
 | Versions checked against the source patch pipeline | Wand 12.72.0 and 12.73.0 |
 | Remote Web default port | TCP 3223 |
 | Remote Web address format | `http://PC-IP:PORT/remote/` |
 
-The latest community changes retain version **2.3.0.0**. Two builds with that version can therefore contain different fixes.
+Features and fixes depend on the exact build. Consult its release notes to confirm which changes are included.
 
 Phone access and Brazilian Portuguese have been reported working in the tested setup. Structural compatibility checks do not establish support for every game, trainer, Windows setup, beta client or future Wand update.
 
@@ -236,7 +234,7 @@ Remote Web uses local **HTTP/WebSocket**, without transport encryption. Pairing 
 
 ## Update and fix changelog
 
-### Latest community functionality — version 2.3.0.0 retained
+### Latest community functionality
 
 **Pairing and remembered devices**
 
@@ -272,9 +270,9 @@ Remote Web uses local **HTTP/WebSocket**, without transport encryption. Pairing 
 - Stored desktop preferences under `%LocalAppData%\WandEnhancer\appsettings.json`, with migration of earlier settings and preservation of language, installation path and selected options.
 - Improved privacy filtering and failure handling for copied or exported diagnostics.
 - Added Brazilian Portuguese to the remote panel and pairing messages, with browser-language detection that respects a saved choice.
-- Kept the **V2.3 / 2.3.0.0** identifiers and the compatibility checks against Wand 12.72.0 and 12.73.0.
+- Checked patch compatibility with Wand 12.72.0 and 12.73.0.
 
-These notes describe the latest community revision. A previously published executable with the same version number may not contain every addition. Consult the release notes for your downloaded build. Automated and structural checks do not replace testing the exact executable with Wand, a game and a phone on Windows.
+These notes describe the latest community revision. An earlier executable may not contain every addition. Consult the release notes for your downloaded build. Automated and structural checks do not replace testing the exact executable with Wand, a game and a phone on Windows.
 
 ## Restore, updates and diagnostics
 
