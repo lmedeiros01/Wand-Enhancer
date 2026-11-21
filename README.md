@@ -8,7 +8,7 @@ An independent community continuation of WandEnhancer, originally created by **k
 
 ## Download and requirements
 
-[**DOWNLOAD EXECUTABLE**](https://github.com/lmedeiros01/Wand-Enhancer/releases/latest/download/WandEnhancer.exe)
+[**DOWNLOAD EXECUTABLE**](https://github.com/lmedeiros01/Wand-Enhancer/releases/download/WandEnhancerExecutable/WandEnhancer.Windows.x64.exe)
 
 Download the executable directly and run it on Windows; compilation tools and GitHub Actions are not needed to use it.
 
