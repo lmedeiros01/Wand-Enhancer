@@ -94,7 +94,7 @@ The Remote Web card provides the information needed to connect a browser to the 
 | **Compatibility** | Reports whether known JavaScript patch targets can be located. It does not certify a game's trainer or phone connectivity. |
 | **Check installation** | Compares installation and backup files with the recorded integrity state. It does not repair files or prove that a trainer works in a game. |
 
-**The screenshot's `111111` code is illustrative.** Use your own current code, QR and address. The screenshot's IP address and expiry time are examples from that setup.
+Use the current code, QR and address displayed by your own WandEnhancer.
 
 After **Test Remote Web**, connection details and the code/QR refresh approximately every five seconds while WandEnhancer is idle. Click **Renew code / QR** when you want a fresh pairing code. If the code has expired or the information is unavailable, click **Test Remote Web** again. Expiry or renewal of the pairing code does not, by itself, disconnect an authorized browser.
 
